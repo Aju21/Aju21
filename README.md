@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Dotnet core, Angular, AWS
 - 🌱 I’m currently learning Angular, Nodejs, Azure
 - 👯 I’m looking to collaborate on Dotnet, Game Dev
-- 📫 How to reach me: https://www.linkedin.com/in/ajinkya-ghadigaonkar-7256259a/ / Twitter : https://twitter.com/aju_21
+- 📫 How to reach me: https://www.linkedin.com/in/ajinkya-ghadigaonkar-7256259a/
 - 😄 Pronouns: He/Him
 
 <!--
